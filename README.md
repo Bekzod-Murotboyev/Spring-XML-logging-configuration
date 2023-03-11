@@ -1,0 +1,1 @@
+# Spring-XML-logging-configuration
